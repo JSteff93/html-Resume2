@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.hero {
+    background-color: #3F72AF;
+    color: antiquewhite;
+}
+.hero > h1 {
+    color: antiquewhite;
+}
+.profile-img {
+    border-radius: 50%;
+    height: 150px;
+}
+.jumbo {
+    background-color: #F9F7F7;
+}
+.card-img-top {
+    object-fit: cover;
+}
+.projects {
+    background-color: #DBE2EF;
+}
+.foot {
+    color: antiquewhite;
+}
